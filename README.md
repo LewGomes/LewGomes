@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Data Analyst.**
 
 - ☁️ I've keen interest in data science. So,I'm learning **Pandas**
 
